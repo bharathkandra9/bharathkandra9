@@ -8,7 +8,6 @@ I love developing and experimenting on new projects and learning new tools and s
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [kandrabharath9@gmail.com](mailto:kandrabharath9@gmail.com)
-* 🚀  I'm currently working on [Blockchain Project](http://https://github.com/bharathkandra9/the-crypto-project.git)
 * 🧠  I'm learning Go Lang, Kubernetes, AWS.
 * 🤝  I'm open to collaborating on Python projects and Devops work
 * ⚡  I trying to learn more
