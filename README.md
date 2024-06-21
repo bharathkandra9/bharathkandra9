@@ -8,7 +8,7 @@ I love developing and experimenting on new projects and learning new tools and s
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [kandrabharath9@gmail.com](mailto:kandrabharath9@gmail.com)
-* 🧠  I'm learning Go Lang, Kubernetes, AWS.
+* 🧠  I'm learning advanced Cpp, AWS.
 * ⚡  I trying to learn more
 
 
